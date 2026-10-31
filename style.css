@@ -3,3 +3,9 @@ h1{
     color: red;
     font-size: 30px;
 };
+
+button{
+    color: white;
+    background-color: red;
+    font-size: smaller;
+}
