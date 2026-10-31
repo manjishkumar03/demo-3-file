@@ -9,3 +9,10 @@ button{
     background-color: red;
     font-size: smaller;
 }
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
